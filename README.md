@@ -28,5 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webnaresh&" alt="webnaresh" /></p>
 
-From <https://rahuldkjain.github.io/gh-profile-readme-generator/> 
-![image](https://github.com/WebNaresh/WebNaresh/assets/91016022/49423405-7320-45b6-8ca1-02d2fde356c0)
