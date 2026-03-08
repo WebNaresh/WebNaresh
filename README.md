@@ -98,7 +98,7 @@ Winner of **SPPU Startup Olympiad 2025** (Tech Startup/Innovation category).
 
 > **"You Imagine, We Build."**
 
-We're a team of 11-50 people building software for startups and enterprises across India. DPIIT-certified, SPPU-incubated, and trusted by 50+ clients.
+A 3-founder startup building software for startups and enterprises across India. DPIIT-certified and SPPU-incubated.
 
 **What we do:** Web & Mobile Apps, SaaS Products, Cloud Infrastructure, E-commerce, Digital Marketing
 
